@@ -1,4 +1,4 @@
-console.log('from js file')
+
 
 const weatherForm=document.querySelector('form')
 const searchElement= document.querySelector('input')
